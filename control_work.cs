@@ -13,4 +13,5 @@ public class MainClass
         }
 
         int a = 0; 
-        
+        for (int i = 0; i < arrays.Length; i++) 
+       
