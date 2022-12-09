@@ -11,3 +11,6 @@ public class MainClass
             Console.WriteLine("Введите что угодно:");
             arrays[i] = Console.ReadLine();
         }
+
+        int a = 0; 
+        
