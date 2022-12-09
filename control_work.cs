@@ -14,13 +14,13 @@ public class MainClass
 
         int a = 0; 
         for (int i = 0; i < arrays.Length; i++) 
-     {
+        {
             if (arrays[i].Length <= 3)
             {
                 a++;
             }
         }
-        string[] newarray = new string[a];
+        string[] newarray = new string[a]; 
         a = 0;
         for (int i = 0; i < arrays.Length; i++) 
         {
@@ -34,5 +34,3 @@ public class MainClass
 
     }
 }
-        
-       
